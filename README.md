@@ -83,11 +83,3 @@ For Vercel deployment:
 1. Connect your GitHub repository to Vercel
 2. Vercel will automatically detect Next.js and configure the build settings
 3. Deploy with a single click
-
-## Contributing
-
-This is a personal portfolio project. While contributions are not actively sought, feedback and suggestions are welcome through GitHub issues.
-
-## License
-
-This project is private and proprietary.
