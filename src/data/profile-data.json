@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "full_name": "Yug Thakkar",
+    "headline": "Data Analyst | Skilled in Excel, Power BI, SQL | Data Visualization, Data Cleaning, EDA | Pursuing Computer Engineering",
+    "location": "Ahmedabad, Gujarat, India",
+    "about": "Data Analyst with strong skills in Excel, Power BI, and SQL. Experienced in data cleaning, exploratory data analysis (EDA), and building clear, impactful data visualizations to support decision-making. Currently pursuing a degree in Computer Engineering, with a focus on applying analytical thinking and technical skills to real-world data problems."
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology - BTech, Business Administration and Management, General",
+      "institution": "Ahmedabad Institute Of Technology Gota, Ahmedabad (SFI) 701",
+      "dates": "2024 – Present"
+    }
+  ],
+  "skills": [
+    "Data Cleaning",
+    "Data Visualization",
+    "Python (Programming Language)",
+    "Microsoft Power BI",
+    "SQL",
+    "Microsoft Excel",
+    "Data Analysis",
+    "Soft Skills",
+    "Analytical Skills"
+  ],
+  "recent_activity_projects": [
+    {
+      "title": "Sales & Profit Analysis Dashboard using Microsoft Excel",
+      "description": "Included building a structured and efficient data model, working with measures (Total Sales, Total Profit, Growth Percentage), and performing dynamic calculations."
+    },
+    {
+      "title": "Sales Analysis Excel Dashboard Project",
+      "description": "An interactive dashboard providing key business metrics including KPI cards for Total Sales, Profit, and Quantity, along with top-performing item identification."
+    }
+  ],
+  "consultation_link": "https://techferment.com"
+}
